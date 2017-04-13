@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "JUG NN is HERE"
-date: 2016-02-19
+date: 2013-04-13
 categories:
-  - Juice
+  - Hi!
 description: 
 image: /testOlen.png
 image-sm: /testOlen.png
