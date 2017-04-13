@@ -1,4 +1,4 @@
-![](https://github.com/yokalona/images/blob/master/testOlen.png)
+![](https://github.com/jug-nn/jug-nn.github.io/blob/master/testOlen.png)
 
 # Анонсы
 
