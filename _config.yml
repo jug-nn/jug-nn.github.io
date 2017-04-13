@@ -1,20 +1,20 @@
 # Site settings
 email: 
-baseurl: ""
+baseurl: "jug-nn.ru"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
+title: JUG NN
+description: The site of the Java group of Nizhnij Novgorod, Russia
 url: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
 name: 
-profile_img: 
+profile_img: testOlen.png
 profile: 
 social:
   github: 
