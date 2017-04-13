@@ -1,6 +1,5 @@
-<head>
-  <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-</head>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 
 
 <i class="fa fa-telegram" aria-hidden="true"></i>
